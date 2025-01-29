@@ -10,6 +10,6 @@ pip install yt-dlp
 ```
 * run with this cmd
 ```
-python NickBiiy-Youtube-Video-Downloader.py
+python nickbiiy-yt-video-downloader.py
 ```
 Enjoy 😉😉
